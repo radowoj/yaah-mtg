@@ -1,0 +1,20 @@
+{
+    "name": "radowoj/yaah-mtg",
+    "description": "Yaah Auction decorators for Allegro categories related to Magic: The Gathering categories",
+    "type": "library",
+    "require": {
+        "radowoj/yaah": "^0.7.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "radowoj",
+            "email": "radoslaw.wojtyczka@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Radowoj\\Yaah\\AuctionDecorators\\Mtg\\": "src"
+        }
+    }
+}
