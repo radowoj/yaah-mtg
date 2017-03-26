@@ -2,7 +2,7 @@
 
 namespace Radowoj\Yaah\AuctionDecorators\Mtg;
 
-class ArtifactAuction extends BaseDecorator
+class ArtifactsAuction extends BaseDecorator
 {
     const ID_CATEGORY = 6089;
 
