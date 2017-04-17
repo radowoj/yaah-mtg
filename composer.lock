@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "843faffcafbf07ae6b31d4a8d9f4b37e",
+    "content-hash": "d44ad164b7658de1b9a7eb94318515d5",
     "packages": [
         {
             "name": "radowoj/yaah",
-            "version": "v0.7.0",
+            "version": "v0.8.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/radowoj/yaah.git",
-                "reference": "f3d5260f6ce8e08da9a7b2b8030f95c9f97d5fdb"
+                "reference": "6b10383195950be574144ffcb2994d4fe1ed14fe"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/radowoj/yaah/zipball/f3d5260f6ce8e08da9a7b2b8030f95c9f97d5fdb",
-                "reference": "f3d5260f6ce8e08da9a7b2b8030f95c9f97d5fdb",
+                "url": "https://api.github.com/repos/radowoj/yaah/zipball/6b10383195950be574144ffcb2994d4fe1ed14fe",
+                "reference": "6b10383195950be574144ffcb2994d4fe1ed14fe",
                 "shasum": ""
             },
             "require-dev": {
@@ -46,13 +46,15 @@
                 "php",
                 "webapi"
             ],
-            "time": "2017-03-26T14:16:52+00:00"
+            "time": "2017-04-01T15:05:11+00:00"
         }
     ],
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": [],
+    "stability-flags": {
+        "radowoj/yaah": 20
+    },
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": [],
